@@ -25,7 +25,7 @@ If you don't need to work with files locally, GitHub lets you complete many Git-
 * Managing files
 * Being social
 
-####  [Setting up Git](.\setup.md)
+####  [Setting up Git](setup.md)
 
 ####  [Next steps: Authenticating with GitHub from Git](https://docs.github.com/en/github/getting-started-with-github/set-up-git#next-steps-authenticating-with-github-from-git)
 
