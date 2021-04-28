@@ -5,7 +5,7 @@
 At the heart of GitHub is an open source version control system (VCS) called Git. Git is responsible for everything GitHub-related that happens locally on your computer.
 To use Git on the command line, you'll need to download, install, and configure Git on your computer. You can also install GitHub CLI to use GitHub from the command line. For more information on [GitHub CLI](https://cli.github.com/manual/), see the GitHub CLI documentation.
 
-![GitHub CLI](https://img1.baidu.com/it/u=2995677592,3839595925&fm=15&fmt=auto&gp=0.jpg)
+![GitHub CLI](https://www.google.com/imgres?imgurl=https%3A%2F%2Frepository-images.githubusercontent.com%2F212613049%2Fd51e7480-f84b-11ea-84d5-4ef1c4d2a5bc&imgrefurl=https%3A%2F%2Fgithub.com%2Fcli%2Fcli&tbnid=qc8lrwsgum48LM&vet=12ahUKEwiz_Lz_rKDwAhVmEqYKHZhmDVwQMygBegUIARC7AQ..i&docid=vEKebfyqqM93SM&w=1200&h=630&q=github%20cli&ved=2ahUKEwiz_Lz_rKDwAhVmEqYKHZhmDVwQMygBegUIARC7AQ)
 
 ```c++
 #include <iostream>
